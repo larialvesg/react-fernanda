@@ -1,11 +1,14 @@
-.conteiner{
+.conteiner {
+    background-color: #181818;
+    padding: 2rem;
     display: flex;
     justify-content: center;
-    align-items: center;
-    background-color:blue;
-    height: 700px;
-}
-
-h1{
-    color: aliceblue;
-}
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  }
+   
+  figure {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1rem;
+  }
